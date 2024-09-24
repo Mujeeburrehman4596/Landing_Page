@@ -14,7 +14,6 @@ A sleek and responsive landing page designed to create a strong first impression
 
 - **HTML5**: For structuring the page.
 - **CSS3**: For styling and responsive design.
-- **JavaScript**: For interactive elements and animations.
 - **Bootstrap 5**: For layout, styling, and responsive components.
 
 ## Installation
